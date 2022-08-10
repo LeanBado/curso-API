@@ -84,6 +84,9 @@ function movie(){
   categoriesPreviewSection.classList.add("inactive");
   genericSection.classList.add("inactive");
   movieDetailSection.classList.remove("inactive");
+
+  const arr1 = location.hash.split("=")
+  moviePorId(arr1[1])
 };
 
 function category(){
