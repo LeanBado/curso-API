@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-movies",
+  "version": "1.0.0",
+  "description": "curso de consumo de API REST",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeanBado/curso-API.git"
+  },
+  "author": "LeanBado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeanBado/curso-API/issues"
+  },
+  "homepage": "https://github.com/LeanBado/curso-API#readme"
+}
